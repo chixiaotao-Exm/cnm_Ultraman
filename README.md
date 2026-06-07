@@ -1,9 +1,14 @@
 # PayPal BA 链提取流程原理
 苹果浏览器填表  https://github.com/chixiaotao-Exm/apple-app-links
+
 地址API  https://api.chixiaotao.cn/api/jp
+
 paypal提链原理 https://github.com/chixiaotao-Exm/cnm_Ultraman
+
 paypal提链https://api.chixiaotao.cn/paypal
+
 买代理的网站（不是我的,和我没关系,仅推荐）
+
 https://pay.ldxp.cn/shop/xiaodaidai.IP
 
 ## 最终正确流程
